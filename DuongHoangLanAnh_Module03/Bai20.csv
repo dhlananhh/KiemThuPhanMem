@@ -1,0 +1,6 @@
+InputString,Character,ExpectedResult,ExpectedError
+statement Coverage,z,32767,false
+statement Coverage,s,0,false
+statement Coverage,e,4,false
+statement Coverage,a,2,false
+invalid_input,!,,-1,true

@@ -1,0 +1,6 @@
+hexaString,ExpectedResult,ExpectedError
+123,291,false
+ace,2766,false
+ACD,2765,false
+059,89,false
+GHI,0,true

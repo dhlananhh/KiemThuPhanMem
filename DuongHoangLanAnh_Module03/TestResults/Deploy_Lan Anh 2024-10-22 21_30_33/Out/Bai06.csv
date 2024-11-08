@@ -1,0 +1,4 @@
+Sum,Count,ExpectedResult
+10,1,10
+20,5,4
+10,0,0

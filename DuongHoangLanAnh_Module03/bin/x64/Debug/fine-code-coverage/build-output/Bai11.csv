@@ -1,0 +1,6 @@
+w,h,ww,wh,ExpectedX,ExpectedY,ExpectedError
+-1,200,300,300,,,"true"
+400,500,300,300,0,0,"false"
+400,200,300,400,0,100,"false"
+200,500,400,300,100,0,"false"
+200,200,300,300,50,50,"false"

@@ -1,0 +1,6 @@
+Email,ExpectedResult
+valid.email@example.com,true
+invalidemail@examplecom,false
+invalid..email@example.com,false
+invalidemail.com,false
+invalid.email@.com,false

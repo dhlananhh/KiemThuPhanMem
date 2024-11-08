@@ -1,0 +1,6 @@
+a,b,c,ExpectedResult
+0,3,4,false
+1,2,3,false
+1,4,2,false
+5,1,2,false
+3,4,5,true

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|e:\\lap trinh c#\\software testing\\duonghoanglananh_module03\\duonghoanglananh_module03\\bai21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|solutionrelative:bai21.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|solutionrelative:bai01.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\bai21.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|solutionrelative:bai21.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\bai20.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|solutionrelative:bai20.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\bai20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|solutionrelative:bai20.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D6DE08F-DF4B-4D30-9B44-12CAD39EC5A5}|DuongHoangLanAnh_Module03.csproj|solutionrelative:bai10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{26341fe2-71dd-46fd-bb1b-2e51a92a0d64}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bai21.cs",
+              "DocumentMoniker": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai21.cs",
+              "RelativeDocumentMoniker": "Bai21.cs",
+              "ToolTip": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai21.cs",
+              "RelativeToolTip": "Bai21.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:02:14.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bai01.cs",
+              "DocumentMoniker": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai01.cs",
+              "RelativeDocumentMoniker": "Bai01.cs",
+              "ToolTip": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai01.cs",
+              "RelativeToolTip": "Bai01.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T14:30:06.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bai21.csv",
+              "DocumentMoniker": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai21.csv",
+              "RelativeDocumentMoniker": "Bai21.csv",
+              "ToolTip": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai21.csv",
+              "RelativeToolTip": "Bai21.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-15T17:02:20.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bai20.csv",
+              "DocumentMoniker": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai20.csv",
+              "RelativeDocumentMoniker": "Bai20.csv",
+              "ToolTip": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai20.csv",
+              "RelativeToolTip": "Bai20.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-15T16:37:06.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Bai20.cs",
+              "DocumentMoniker": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai20.cs",
+              "RelativeDocumentMoniker": "Bai20.cs",
+              "ToolTip": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai20.cs",
+              "RelativeToolTip": "Bai20.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T17:13:53.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Bai10.cs",
+              "DocumentMoniker": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai10.cs",
+              "RelativeDocumentMoniker": "Bai10.cs",
+              "ToolTip": "E:\\LAP TRINH C#\\Software Testing\\DuongHoangLanAnh_Module03\\DuongHoangLanAnh_Module03\\Bai10.cs",
+              "RelativeToolTip": "Bai10.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T16:09:39.705Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

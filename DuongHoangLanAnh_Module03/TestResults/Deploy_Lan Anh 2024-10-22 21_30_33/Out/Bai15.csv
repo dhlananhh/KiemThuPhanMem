@@ -1,0 +1,7 @@
+Year,ExpectedResult,ExpectedError
+999,false,true
+10001,false,true
+2000,true,false
+1900,false,false
+2004,true,false
+2001,false,false

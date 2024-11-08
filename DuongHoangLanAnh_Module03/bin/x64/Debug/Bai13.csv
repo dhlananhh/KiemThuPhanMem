@@ -1,0 +1,7 @@
+x1,y1,x2,y2,x,y,ExpectedResult,ExpectedError
+5,5,2,3,3,4,,true
+1,1,4,4,0,2,false,false
+1,1,4,4,5,2,false,false
+1,1,4,4,2,0,false,false
+1,1,4,4,2,5,false,false
+1,1,4,4,3,3,true,false
